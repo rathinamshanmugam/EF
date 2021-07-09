@@ -29,7 +29,7 @@ namespace ConsoleApp1.EntityModels
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=windows.net;Database=common;User Id= user; Password=testr;");
+                optionsBuilder.UseSqlServer("Server=tcp:sql-dotz-db-server.database.windows.net;Database=sqldb-dotz-common;User Id= zhive-dev-user; Password=zH!ve#u$eR@1;");
             }
         }
 

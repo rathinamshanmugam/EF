@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EFGeneration\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\EF\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\EFGeneration\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\EF\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EFGeneration\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\EF\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\EFGeneration\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\EF\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Rathinam Shanmugam\\.nuget\\packages\\",
-        "outputPath": "C:\\EFGeneration\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rathinam Shanmugam\\AppData\\Roaming\\NuGet\\NuGet.Config",
